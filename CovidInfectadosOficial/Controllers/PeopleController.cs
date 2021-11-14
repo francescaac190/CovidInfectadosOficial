@@ -6,8 +6,8 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using CovidInfectadosOficial.Data;
-using CovidInfectadosOficial.Models;
-
+using CovidInfectadosOficial.Models; 
+//Controlador
 namespace CovidInfectadosOficial.Controllers
 {
     [Route("api/[controller]")]
